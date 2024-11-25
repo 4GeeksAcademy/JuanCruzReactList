@@ -1,3 +1,33 @@
 /* 
     General Styles
 */
+
+.boton{
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+
+.cardBody{
+    display: flex;
+    justify-content: center;
+  
+    gap: 25px;
+}
+.card{
+    
+    display: grid;
+    
+    
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px 20px;
+    color: green;
+    font-size: 14px;
+    
+   
+  }
